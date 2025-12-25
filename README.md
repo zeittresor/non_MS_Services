@@ -11,6 +11,8 @@ signed by Microsoft.
 This allows identifying services that were added after the OS
 installation by third-party software.
 
+<img width="1251" height="752" alt="example_scan" src="https://github.com/user-attachments/assets/00eba640-61f0-4d73-9acf-41d0a53792e9" />
+
 How it works:
 -------------
 - Enumerates Windows services
